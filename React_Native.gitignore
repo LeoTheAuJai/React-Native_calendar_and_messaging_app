@@ -1,0 +1,75 @@
+# Expo
+.expo/
+.expo-shared/
+.expo-cache/
+
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+metro.config.js.local
+watchman/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/captures/
+android/*.hprof
+android/.idea/
+android/.project
+android/.settings/
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcodeproj/*
+ios/*.xcworkspace/*
+ios/UserInterfaceState.xcuserstate
+ios/Podfile.lock
+.DS_Store
+
+# Babel
+*.jsbundle
+*.map
+
+# Coverage
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Testing
+/jest/
+
+# Expo updates
+.expo/
+dist/
+web-build/
