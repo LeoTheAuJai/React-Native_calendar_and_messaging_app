@@ -1,4 +1,4 @@
-這是一個非常實用的專案！結合了即時通訊與行事曆管理，很適合展示你整合不同功能的能力。目前 `README.md` 內容很簡潔，以下我為你準備了中英文雙版本的完整說明，可以讓其他人更容易理解這個 App 的價值。
+
 
 ### **📄 README.md (英文版)**
 
@@ -104,7 +104,8 @@ Created by **LeoTheAuJai**. Feel free to reach out via GitHub or through the con
 ```
 [![React Native](https://img.shields.io/badge/React_Native-0.76+-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-51+-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
-[![YouTube 示範](https://img.shields.io/badge/示範-YouTube 觀看-red?style=for-the-badge&logo=youtube)](https://youtu.be/H0qPwDkUFe0)
+[![YouTube Demo](https://img.shields.io/badge/Demo-Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/H0qPwDkUFe0)
+
 
 這是一個使用 **React Native** 開發的行動應用程式，它將**即時通訊**與**行事曆及事件管理系統**完美整合。旨在幫助用戶在同一個平台上有效地協調行程並進行溝通。
 
@@ -193,9 +194,4 @@ Created by **LeoTheAuJai**. Feel free to reach out via GitHub or through the con
 ---
 ```
 
-### ✨ 如何使用
-1.  在你的本地專案資料夾中，將上述**英文版**的內容複製到 `README.md` 檔案。
-2.  將**中文版**的內容複製到一個新檔案，並命名為 `README.zh.md`，放在同一個根目錄下。
-3.  透過 Git Commit 並 Push 到你的 GitHub repository。
 
-這個 README 清晰地介紹了你專案的核心價值（整合通訊與行事曆）、主要功能、使用技術，並提供了詳細的安裝步驟，能幫助任何感興趣的人快速理解並嘗試運行你的 App。
